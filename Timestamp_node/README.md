@@ -1,3 +1,7 @@
+
+Project [Timestamp Machine]
+------------
+
 Welcome to the Glitch BETA
 =========================
 
@@ -7,8 +11,6 @@ Welcome to the Glitch BETA
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Timestamp Machine
-------------
 
 On the front-end,
 - edit `public/client.js`, `public/style.css` and `views/index.html`
